@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="903" height="1" viewBox="0 0 903 1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #686868;
+        fill-rule: evenodd;
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <path id="menu_line.svg" class="cls-1" d="M361,107v-1h903v1H361Z" transform="translate(-361 -106)"/>
+</svg>
